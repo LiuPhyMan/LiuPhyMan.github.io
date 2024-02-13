@@ -1,0 +1,17 @@
+---
+title: "几个物理常数"
+categories:
+  - 2024-02
+tags:
+  - 笔记
+  - 随想
+---
+
+玻尔半径（Bohr radius）:
+$$a_0=\dfrac{\hbar^2}{m_ee^2}$$
+精细常数（Fine-structure constant）：
+$$\alpha=\dfrac{e^2}{\hbar c}$$
+经典电子半径（classical radius of electron）：
+$$r_e=\alpha^2a_0$$
+里德伯常数（Rydberg energy）：
+$$R_y=\dfrac{e^2}{2a_0}$$
