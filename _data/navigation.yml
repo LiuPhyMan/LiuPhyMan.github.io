@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "首页"
-    url: /posts/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://LiuPhyMan.github.io/
   - title: "文档"
     url: /year-archive/
   - title: "标签"
