@@ -16,4 +16,4 @@ $$
   \sqrt{4}
 \end{align}
 $$
-![alt text](/docs/assets/images/air-skin-post.png "Logo")
+![alt text](/images/air-skin-post.png "Logo")
